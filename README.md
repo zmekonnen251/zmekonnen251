@@ -117,3 +117,14 @@ Mentoring, Code Reviews, Team Leadership
 
 * Tour management system built with Express.js, Sequelize, and React.
 * Impact: Automated booking workflows for travel agencies.
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/zmekonnen251" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&count_private=true" alt="Zelalem's GitHub Stats" />
+  </a>
+  <a href="https://github.com/zmekonnen251" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&langs_count=8" alt="Zelalem's Top Languages" />
+  </a>
+</p>
