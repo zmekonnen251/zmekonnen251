@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact:  I want to be remembered for my upbeat, collaborative, and open-minded attitude.
 
-| <a href="https://zmekonnen251.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&count_private=true" /></a> | <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8"  /></a> |
+| <a href="https://zmekonnen251.vercel.app" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&count_private=true" /></a> | <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&hide=html,css,scss&count_private=true&langs_count=8"  /></a> |
 | ------------- | ------------- |
 </a>
      
