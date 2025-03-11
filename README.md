@@ -120,7 +120,7 @@ Mentoring, Code Reviews, Team Leadership
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/zmekonnen251" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&count_private=true" alt="Zelalem's GitHub Stats" />
   </a>
